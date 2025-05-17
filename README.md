@@ -1,6 +1,6 @@
 ## Hey, I'm Rob 👋
 
-<br>-💼  Co-Founder/Lead Software Developer @ CS Toolkit. 
+<br>-💼  Full Stack Developer @ BMO. 
 <br>-🔭 I love to develop full stack web applications and learn new languages + frameworks!
 <br>-📫 Reach me via email at rmirandola@icloud.com
 
